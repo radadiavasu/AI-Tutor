@@ -42,4 +42,4 @@
 ---
 ### Advancements
 
-- Add `Deep Search` for long answers & browser capability for crystal clear perception on any topic.
+- Add `Deep Search` for long answers, comparisons between your doc and browser & browser capability for crystal clear perception on any topic.
