@@ -27,7 +27,7 @@
 |meta-llama/Llama-3.1-8B-Instruct|Good for reasoning, very logical, but sometimes generate out of context
 |meta-llama/Llama-3.1-70B-Instruct|Very well for reasoning, solid logical, accurate as per context
 |meta-llama/Llama-3.1-405B-Instruct|Overall exceptionallly outstanding
-|deepseek-ai/DeepSeek-R1|TODO
+|deepseek-ai/DeepSeek-R1 (685B)|TODO
 |mistralai/Mistral-7B-Instruct-v0.2|TODO
 
 ---
