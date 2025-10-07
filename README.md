@@ -35,7 +35,7 @@
 - Remember it doesn't matter about how much billon parameters model u use, the thing only matters is proper prompt template, temprature, chunk_size and chunk_overlap means just follow the `Indexes` componante of `LangChain` properly.
 
 ---
-### Limitations
+### TODO
 
 - Currently handle only raw texts data means if your doc contain row/col, imgs, or graphs, it may not work.
 
