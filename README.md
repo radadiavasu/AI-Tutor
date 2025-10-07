@@ -29,7 +29,8 @@
 |meta-llama/Llama-3.1-405B-Instruct|Overall exceptionallly outstanding
 
 ---
-### Things to focus
+### Be Carefull
 
+- If app doesn't work it means my huggigface free inference are over, in that case download the source code and paste your API in `.env` file.
 - Remember it doesn't matter about how much billon parameters model u use, the thing only matters is proper prompt template, temprature, chunk_size and chunk_overlap properly means just follow the `Indexes` componant properly.
 
