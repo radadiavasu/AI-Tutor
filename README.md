@@ -20,7 +20,7 @@
 - Like anyone whether you're student, reseracher, working profesional or for fun (like me 😜).
 
 ---
-### Models Perofermance
+### Models Performance
 
 | Model | Performance |
 |---|---|
